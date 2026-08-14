@@ -1,13 +1,13 @@
-<!-- ===================== BANNER ===================== -->
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0369A1,100:06B6D4&height=220&section=header&text=LEONARDO%20LUZ&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=Estudante%20de%20Informática%20%7C%20Programador%20em%20formação&descAlignY=58&descSize=18&animation=fadeIn" width="100%" />
 </p>
 
-<!-- ===================== APRESENTAÇÃO ===================== -->
+
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=750&lines=Olá%2C+eu+sou+Leonardo+Luz+%F0%9F%91%8B;Estudante+de+Informática+%F0%9F%92%BB;Programador+em+formação+%F0%9F%9A%80;PHP+%7C+Python+%7C+SQL+%7C+Redes;Aprendendo.+Praticando.+Evoluindo." alt="Apresentação animada" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=750&lines=Olá%2C+eu+sou+Leonardo+Luz+%F0%9F%91%8B;Estudante+de+Informática+%F0%9F%92%BB;Programador+em+formação+%F0%9F%9A%80;PHP+%7C+Python+%7C+SQL+%7C+Redes;Aprendendo.+Praticando.+Evoluindo." />
 </p>
 
 <p align="center">
@@ -26,19 +26,19 @@
 
 <!-- ===================== SOBRE ===================== -->
 
-## 👨‍💻 Sobre mim
+##  Sobre mim
 
 ```text
 ┌─────────────────────────────────────────────────────────────┐
 │                                                             │
-│  👋 Olá! Eu sou Leonardo Luz.                              │
+│   Olá! Eu sou Leonardo Luz.                              │
 │                                                             │
-│  🎓 Estudante de Informática — último ano                  │
+│   Estudante de Informática — último ano                  │
 │  💻 Programador em formação                                │
 │  🌐 Experiência com redes e infraestrutura                 │
 │  🔌 Cabeamento estruturado                                 │
 │                                                             │
-│  🎯 Objetivo: construir minha carreira como programador.  │
+│   Objetivo: construir minha carreira como programador.  │
 │                                                             │
 └─────────────────────────────────────────────────────────────┘
 ```
@@ -49,11 +49,9 @@ Tenho estudado e praticado principalmente **PHP, Python e SQL**, além de possui
 
 Ainda estou no começo da minha jornada como desenvolvedor e não considero que domino essas tecnologias. Meu foco é continuar estudando, criar projetos reais e evoluir constantemente.
 
-> 💡 **Aprender → Praticar → Errar → Corrigir → Evoluir**
-
 ---
 
-# 🎯 Meu objetivo
+#  Meu objetivo
 
 Quero construir minha carreira profissional como **programador**.
 
@@ -61,7 +59,7 @@ Meu foco atualmente está em transformar o conhecimento que estou adquirindo em 
 
 <p align="center">
 
-|        🎓 Formação        |   💻 Foco   |
+|         Formação        |    Foco   |
 | :-----------------------: | :---------: |
 | Último ano de Informática | Programação |
 
@@ -73,9 +71,9 @@ Meu foco atualmente está em transformar o conhecimento que estou adquirindo em 
 
 ---
 
-# 🧰 Tecnologias & Ferramentas
+#  Tecnologias & Ferramentas
 
-### 💻 Desenvolvimento
+###  Desenvolvimento
 
 <p>
   <img src="https://skillicons.dev/icons?i=php,python,html,css,js" />
@@ -87,7 +85,7 @@ Meu foco atualmente está em transformar o conhecimento que estou adquirindo em 
   <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
-### 🔧 Ferramentas
+###  Ferramentas
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
@@ -99,13 +97,13 @@ Meu foco atualmente está em transformar o conhecimento que estou adquirindo em 
 🌐 Redes de computadores
 🔌 Cabeamento estruturado
 🖧 Infraestrutura de redes
-🔧 Manutenção
-🛠️ Suporte técnico
+ Manutenção
+ Suporte técnico
 ```
 
 ---
 
-# 🚀 Projeto em destaque
+#  Projeto em destaque
 
 <a href="https://deltatechlages.com">
 
@@ -125,19 +123,9 @@ Também é uma oportunidade para colocar meus conhecimentos em prática e contin
   </a>
 </p>
 
-### 🧪 O que estou praticando
-
-```text
-🌐 Desenvolvimento Web
-🎨 Interface
-📱 Responsividade
-🗄️ Banco de dados
-🔧 Manutenção
-🚀 Publicação
-🧠 Resolução de problemas
 ```
 
-> 🚧 Projeto em constante evolução.
+>  Projeto em constante evolução.
 
 ---
 
@@ -163,7 +151,7 @@ Ainda estou construindo meu portfólio e pretendo utilizar meus projetos para de
 
 <p align="center">
 
-🚧 <strong>Novos projetos em breve...</strong>
+ <strong>Novos projetos em breve...</strong>
 
 </p>
 
@@ -191,7 +179,7 @@ Essa experiência me permite conhecer dois lados diferentes da tecnologia:
        │                   │
    INFRAESTRUTURA      DESENVOLVIMENTO
        │                   │
-    🌐 Redes           💻 Código
+    🌐 Redes            Código
     🔌 Cabos          🐘 PHP
     🖧 Estrutura       🐍 Python
                        🗄️ SQL
@@ -199,43 +187,19 @@ Essa experiência me permite conhecer dois lados diferentes da tecnologia:
 
 ---
 
-# 📊 GitHub
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=deltaleo-tech&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=06B6D4&text_color=FFFFFF" />
-
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deltaleo-tech&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=FFFFFF" />
-</p>
 
 ---
 
 
 
 ---
-
-# 📚 Atualmente estudando
-
-```text
-┌──────────────────────────────────────┐
-│                                      │
-│  🐘 PHP              ███████░░░      │
-│  🐍 Python           ██████░░░░      │
-│  🗄️ SQL              ██████░░░░      │
-│  🌐 Desenvolvimento   ██████░░░░      │
-│  🧠 Lógica            ███████░░░      │
-│  🔌 Redes             ████████░░      │
-│                                      │
-└──────────────────────────────────────┘
-```
-
-> ⚠️ As barras acima são apenas uma representação visual daquilo que estou estudando, não representam níveis oficiais de domínio.
 
 ---
 
 # 🧭 Minha jornada
 
 ```text
-🎓 Último ano de Informática
+ Último ano de Informática
              │
              ▼
        🌐 Redes & Infra
@@ -249,29 +213,29 @@ Essa experiência me permite conhecer dois lados diferentes da tecnologia:
       │      │      │
       └──────┼──────┘
              ▼
-       🧪 Projetos
+        Projetos
              │
              ▼
-       🚀 Primeiro emprego
+        Primeiro emprego
              │
              ▼
-      👨‍💻 Desenvolvedor
+       Desenvolvedor
 ```
 
 ---
 
 # 📈 O que estou buscando
 
-🎯 Evoluir como programador
-💻 Criar projetos cada vez melhores
-🧠 Fortalecer minha lógica de programação
-🗄️ Aprender mais sobre bancos de dados
-🌐 Melhorar minhas habilidades em desenvolvimento Web
-🚀 Conseguir minha primeira oportunidade profissional como programador
+ Evoluir como programador
+ Criar projetos cada vez melhores
+ Fortalecer minha lógica de programação
+ Aprender mais sobre bancos de dados
+ Melhorar minhas habilidades em desenvolvimento Web
+ Conseguir minha primeira oportunidade profissional como programador
 
 ---
 
-# 📫 Onde me encontrar
+#  Onde me encontrar
 
 <p align="center">
 
