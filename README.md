@@ -1,212 +1,290 @@
-# 👋 Olá! Eu sou Leonardo Luz
+<!-- ===================== BANNER ===================== -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00A8FF&center=true&vCenter=true&width=800&lines=Bem-vindo+ao+meu+GitHub!;Leonardo+Luz+%7C+Estudante+de+Inform%C3%A1tica;Programador+em+forma%C3%A7%C3%A3o+%F0%9F%9A%80;Aprendendo%2C+praticando+e+evoluindo." alt="Animação de apresentação" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0369A1,100:06B6D4&height=220&section=header&text=LEONARDO%20LUZ&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=Estudante%20de%20Informática%20%7C%20Programador%20em%20formação&descAlignY=58&descSize=18&animation=fadeIn" width="100%" />
+</p>
+
+<!-- ===================== APRESENTAÇÃO ===================== -->
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=750&lines=Olá%2C+eu+sou+Leonardo+Luz+%F0%9F%91%8B;Estudante+de+Informática+%F0%9F%92%BB;Programador+em+formação+%F0%9F%9A%80;PHP+%7C+Python+%7C+SQL+%7C+Redes;Aprendendo.+Praticando.+Evoluindo." alt="Apresentação animada" />
 </p>
 
 <p align="center">
   <a href="https://deltatechlages.com">
-    <img src="https://img.shields.io/badge/%F0%9F%8C%90_Meu_Site-DeltaTech-00A8FF?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/🌐%20DELTA%20TECH-06B6D4?style=for-the-badge&logoColor=white" />
   </a>
-
   <a href="https://instagram.com/eae._leolima">
-    <img src="https://img.shields.io/badge/Instagram-eae._leolima-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-
   <a href="https://github.com/deltaleo-tech">
-    <img src="https://img.shields.io/badge/GitHub-deltaleo--tech-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GITHUB-111827?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
----
+<br>
 
-## 🧑‍💻 Sobre mim
+<!-- ===================== SOBRE ===================== -->
 
-Olá! Eu sou **Leonardo Luz**, estudante da área de **Informática**, atualmente no último ano do curso.
+## 👨‍💻 Sobre mim
 
-Estou construindo minha carreira na área de tecnologia e tenho como principal objetivo me tornar **programador**.
+```text
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│  👋 Olá! Eu sou Leonardo Luz.                              │
+│                                                             │
+│  🎓 Estudante de Informática — último ano                  │
+│  💻 Programador em formação                                │
+│  🌐 Experiência com redes e infraestrutura                 │
+│  🔌 Cabeamento estruturado                                 │
+│                                                             │
+│  🎯 Objetivo: construir minha carreira como programador.  │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+```
 
-Atualmente venho estudando e praticando principalmente:
+Estou no último ano de **Informática** e atualmente estou construindo minha base na área de desenvolvimento.
 
-* 🐘 PHP
-* 🐍 Python
-* 🗄️ SQL
-* 🌐 Desenvolvimento Web
-* 🧠 Lógica de programação
+Tenho estudado e praticado principalmente **PHP, Python e SQL**, além de possuir experiência prática com **redes de computadores e cabeamento estruturado**.
 
-Também trabalho com **redes de computadores e cabeamento estruturado**, adquirindo experiência prática com infraestrutura e tecnologia.
+Ainda estou no começo da minha jornada como desenvolvedor e não considero que domino essas tecnologias. Meu foco é continuar estudando, criar projetos reais e evoluir constantemente.
 
-Ainda estou no começo da minha jornada como desenvolvedor e tenho muito a aprender. Meu objetivo é evoluir através de **estudos, projetos reais, prática e desafios**.
-
-> 🚀 Não busco saber tudo. Busco aprender algo novo todos os dias.
-
----
-
-## 🎯 Meu objetivo
-
-Meu objetivo profissional é atuar como **programador**, desenvolvendo aplicações e soluções que possam resolver problemas reais.
-
-Atualmente estou focado em fortalecer minha base de programação e transformar o conhecimento adquirido nos estudos em projetos práticos.
-
-
+> 💡 **Aprender → Praticar → Errar → Corrigir → Evoluir**
 
 ---
 
-## 🛠️ Tecnologias que estou estudando
+# 🎯 Meu objetivo
+
+Quero construir minha carreira profissional como **programador**.
+
+Meu foco atualmente está em transformar o conhecimento que estou adquirindo em projetos reais e desenvolver uma base sólida em programação.
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,python,mysql,html,css,js,git,github,vscode,linux" />
+
+|        🎓 Formação        |   💻 Foco   |
+| :-----------------------: | :---------: |
+| Último ano de Informática | Programação |
+
+|     🐘 PHP     |    🐍 Python   |     🗄️ SQL    |
+| :------------: | :------------: | :------------: |
+| Em aprendizado | Em aprendizado | Em aprendizado |
+
 </p>
+
+---
+
+# 🧰 Tecnologias & Ferramentas
 
 ### 💻 Desenvolvimento
 
-* PHP
-* Python
-* HTML
-* CSS
-* JavaScript
+<p>
+  <img src="https://skillicons.dev/icons?i=php,python,html,css,js" />
+</p>
 
 ### 🗄️ Banco de dados
 
-* SQL
-* MySQL
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</p>
 
 ### 🔧 Ferramentas
 
-* Git
-* GitHub
-* Visual Studio Code
-* Linux
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+</p>
 
 ### 🌐 Infraestrutura
 
-* Redes de computadores
-* Cabeamento estruturado
-* Infraestrutura de redes
-* Suporte técnico
+```text
+🌐 Redes de computadores
+🔌 Cabeamento estruturado
+🖧 Infraestrutura de redes
+🔧 Manutenção
+🛠️ Suporte técnico
+```
 
 ---
 
-## 🌐 Projeto em destaque
+# 🚀 Projeto em destaque
 
-### 💻 DeltaTech
+<a href="https://deltatechlages.com">
+
+## 💠 DeltaTech
+
+</a>
 
 A **DeltaTech** é um projeto ligado à área de **tecnologia, conectividade, segurança e infraestrutura**.
 
-O projeto trabalha com soluções como redes cabeadas e Wi-Fi, câmeras de segurança, fibra óptica, automação e infraestrutura tecnológica.
+O projeto trabalha com soluções relacionadas a redes, Wi-Fi, câmeras, fibra óptica, automação e infraestrutura tecnológica.
 
-Também utilizo o projeto como uma oportunidade para colocar meus conhecimentos em prática e continuar evoluindo na área de tecnologia.
+Também é uma oportunidade para colocar meus conhecimentos em prática e continuar aprendendo através de um projeto real.
 
 <p align="center">
   <a href="https://deltatechlages.com">
-    <img src="https://img.shields.io/badge/%F0%9F%8C%90_Acessar_o_site-DeltaTech-00A8FF?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/🌐%20VISITAR%20SITE-06B6D4?style=for-the-badge&logoColor=white" />
   </a>
 </p>
 
-### 🚧 O que estou praticando com o projeto
+### 🧪 O que estou praticando
 
-* 🌐 Desenvolvimento Web
-* 💻 Estruturação de páginas
-* 🎨 Interface e organização visual
-* 📱 Responsividade
-* 🗄️ Banco de dados
-* 🔧 Manutenção de aplicação
-* 🚀 Publicação de projeto real
-* 🧠 Organização e resolução de problemas
+```text
+🌐 Desenvolvimento Web
+🎨 Interface
+📱 Responsividade
+🗄️ Banco de dados
+🔧 Manutenção
+🚀 Publicação
+🧠 Resolução de problemas
+```
 
-> O projeto está em constante evolução, assim como meus conhecimentos em tecnologia.
+> 🚧 Projeto em constante evolução.
 
 ---
 
-## 📂 Projetos
+# 📂 Meus projetos
 
-Estou construindo meu portfólio aos poucos através de projetos próprios e exercícios práticos.
+Ainda estou construindo meu portfólio e pretendo utilizar meus projetos para demonstrar minha evolução.
 
 ### 🐘 PHP
 
-Projetos voltados para aprendizado de PHP, desenvolvimento web, formulários, sistemas e integração com banco de dados.
+> Projetos para praticar PHP, formulários, sistemas, CRUD e integração com banco de dados.
 
 ### 🐍 Python
 
-Scripts e pequenos projetos para desenvolver minha lógica de programação e aprender os fundamentos da linguagem.
+> Scripts e pequenos sistemas para desenvolver lógica de programação e fundamentos da linguagem.
 
 ### 🗄️ SQL
 
-Exercícios e aplicações envolvendo bancos de dados, consultas, relacionamentos e manipulação de informações.
+> Exercícios e projetos envolvendo bancos de dados, consultas, relacionamentos e manipulação de dados.
 
-### 🌐 Desenvolvimento Web
+### 🌐 Web
 
-Projetos para praticar HTML, CSS, JavaScript e integração com tecnologias de backend.
+> Projetos utilizando HTML, CSS, JavaScript e tecnologias de backend.
 
-> 🚧 Novos projetos serão adicionados conforme minha evolução.
+<p align="center">
+
+🚧 <strong>Novos projetos em breve...</strong>
+
+</p>
 
 ---
 
-## 🌐 Experiência com Redes
+# 🌐 Redes & Infraestrutura
 
-Além da programação, também possuo experiência prática com **redes e infraestrutura**.
+Antes de me aprofundar cada vez mais em programação, também venho adquirindo experiência prática com infraestrutura.
 
-### 🔌 Principais atividades
+### 🔌 Experiência
 
-* Cabeamento estruturado
 * Redes de computadores
+* Cabeamento estruturado
 * Organização de infraestrutura
 * Instalação de cabeamento
 * Manutenção
 * Suporte técnico
-* Infraestrutura de redes
 
-Essa experiência me permite conhecer diferentes áreas da tecnologia e entender melhor a relação entre **infraestrutura, sistemas e desenvolvimento**.
+Essa experiência me permite conhecer dois lados diferentes da tecnologia:
+
+```text
+             TECNOLOGIA
+                 │
+       ┌─────────┴─────────┐
+       │                   │
+   INFRAESTRUTURA      DESENVOLVIMENTO
+       │                   │
+    🌐 Redes           💻 Código
+    🔌 Cabos          🐘 PHP
+    🖧 Estrutura       🐍 Python
+                       🗄️ SQL
+```
 
 ---
 
-## 📊 GitHub
+# 📊 GitHub
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=deltaleo-tech&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=deltaleo-tech&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=06B6D4&text_color=FFFFFF" />
 
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deltaleo-tech&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deltaleo-tech&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=FFFFFF" />
 </p>
 
 ---
 
-## 🔥 Minha evolução
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=deltaleo-tech&theme=tokyonight&hide_border=true&locale=pt_BR" />
-</p>
-
-Estou no início da minha carreira e acredito que evolução acontece através de consistência.
-
-
-
-## 📈 Atualmente
-
-* 🎓 Último ano de Informática
-* 💻 Estudando programação
-* 🐘 Praticando PHP
-* 🐍 Praticando Python
-* 🗄️ Estudando SQL
-* 🌐 Desenvolvendo projetos Web
-* 🔌 Trabalhando com redes e cabeamento estruturado
-* 🚀 Buscando evoluir profissionalmente como programador
 
 ---
 
-## 📫 Entre em contato
+# 📚 Atualmente estudando
+
+```text
+┌──────────────────────────────────────┐
+│                                      │
+│  🐘 PHP              ███████░░░      │
+│  🐍 Python           ██████░░░░      │
+│  🗄️ SQL              ██████░░░░      │
+│  🌐 Desenvolvimento   ██████░░░░      │
+│  🧠 Lógica            ███████░░░      │
+│  🔌 Redes             ████████░░      │
+│                                      │
+└──────────────────────────────────────┘
+```
+
+> ⚠️ As barras acima são apenas uma representação visual daquilo que estou estudando, não representam níveis oficiais de domínio.
+
+---
+
+# 🧭 Minha jornada
+
+```text
+🎓 Último ano de Informática
+             │
+             ▼
+       🌐 Redes & Infra
+             │
+             ▼
+       💻 Programação
+             │
+      ┌──────┼──────┐
+      ▼      ▼      ▼
+    PHP    Python   SQL
+      │      │      │
+      └──────┼──────┘
+             ▼
+       🧪 Projetos
+             │
+             ▼
+       🚀 Primeiro emprego
+             │
+             ▼
+      👨‍💻 Desenvolvedor
+```
+
+---
+
+# 📈 O que estou buscando
+
+🎯 Evoluir como programador
+💻 Criar projetos cada vez melhores
+🧠 Fortalecer minha lógica de programação
+🗄️ Aprender mais sobre bancos de dados
+🌐 Melhorar minhas habilidades em desenvolvimento Web
+🚀 Conseguir minha primeira oportunidade profissional como programador
+
+---
+
+# 📫 Onde me encontrar
 
 <p align="center">
 
 <a href="https://deltatechlages.com">
-  <img src="https://img.shields.io/badge/%F0%9F%8C%90_Site-DeltaTech-00A8FF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🌐%20DeltaTech-06B6D4?style=for-the-badge" />
 </a>
 
 <a href="https://instagram.com/eae._leolima">
-  <img src="https://img.shields.io/badge/Instagram-eae._leolima-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+<img src="https://img.shields.io/badge/Instagram-eae._leolima-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
 <a href="https://github.com/deltaleo-tech">
-  <img src="https://img.shields.io/badge/GitHub-deltaleo--tech-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-deltaleo--tech-111827?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </p>
@@ -215,14 +293,14 @@ Estou no início da minha carreira e acredito que evolução acontece através d
 
 <p align="center">
 
-### 🚀 Obrigado por visitar meu GitHub!
+### 💙 Obrigado por visitar meu perfil!
 
 **Leonardo Luz**
 
-*Estudante de Informática • Programador em formação • Tecnologia & Infraestrutura*
+`Estudante de Informática` • `Programador em formação` • `Tecnologia & Infraestrutura`
 
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=deltaleo-tech&color=00A8FF&style=for-the-badge&label=VISITAS+NO+PERFIL" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:0369A1,100:020617&height=120&section=footer" width="100%" />
 </p>
