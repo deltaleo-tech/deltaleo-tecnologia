@@ -48,17 +48,7 @@ Meu objetivo profissional é atuar como **programador**, desenvolvendo aplicaç�
 
 Atualmente estou focado em fortalecer minha base de programação e transformar o conhecimento adquirido nos estudos em projetos práticos.
 
-```text
-📚 Estudar
-    ↓
-💻 Praticar
-    ↓
-🧠 Aprender com os erros
-    ↓
-🔧 Criar projetos
-    ↓
-🚀 Evoluir como desenvolvedor
-```
+
 
 ---
 
@@ -188,23 +178,7 @@ Essa experiência me permite conhecer diferentes áreas da tecnologia e entender
 
 Estou no início da minha carreira e acredito que evolução acontece através de consistência.
 
-```text
-📚 Estudar
-      ↓
-💻 Praticar
-      ↓
-🐛 Errar
-      ↓
-🔎 Pesquisar
-      ↓
-🔧 Corrigir
-      ↓
-🚀 Melhorar
-      ↓
-🔁 Repetir
-```
 
----
 
 ## 📈 Atualmente
 
